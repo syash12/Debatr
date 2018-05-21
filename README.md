@@ -1,2 +1,2 @@
-# 461L-Group-8
+# Debatr
 EE 461L Semester long project, Group 8
