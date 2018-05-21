@@ -2,9 +2,10 @@
 
 Debatr is an android application made to allow people to freely discuss and share their opinions over a myriad of topics.
 
-![Debatr Menu](https://imgur.com/11SO1V7.png)   -----------------        ![Debatr Home](https://imgur.com/HSZkLhY.png)
 
-Key Features:
+![Debatr Menu](https://imgur.com/11SO1V7.png)  . . . . . . .        ![Debatr Home](https://imgur.com/HSZkLhY.png)
+
+### Key Features:
 
 - Navigating and browsing multiple topics
 - Real-time chat that will update as new messages appear
